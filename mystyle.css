@@ -1,0 +1,130 @@
+body {
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    font-family: Helvetica;
+}
+.body {
+    width: 1219px;
+    margin: auto;
+}
+.navigation 
+{
+    background: #007765;
+    height: 84px;
+    line-height: 84px;
+    position: sticky;
+    top: 0;
+}
+.navigation p{
+    color: white;
+}
+.navigation a{
+    color: white;
+}
+.logo {
+    float:left;
+    width: 185px;
+    height: 45px;
+    position: absolute;
+    top:20px;
+}
+.middle {
+    margin: 0px;
+}
+div .middle {
+    text-align: right;
+    font-size: 24px;
+}
+h1 {
+    font-size: 64px;
+    text-align: center;
+}
+.PiperNet {
+    color:#FFFFFF;
+    margin:0px;
+    padding-top: 160px;
+    padding-bottom: 160px;
+    background: url(PiperNet.png);
+    background-size: cover;
+}
+div.theproblem {
+    background: #EEEEEE;
+    padding-bottom: 32px;
+}
+h1.theproblem {
+    margin-top: 0px;
+    padding-top: 1em;
+}
+.theproblem p {
+    font-size: 32px;
+}
+div.together {
+    background: url(together.png);
+    background-size: cover;
+    padding-bottom: 127px;
+    padding-top: 128px;
+}
+p.together {
+    font-size: 48px;
+    margin: 0px;
+    text-align: center;
+    font-style: italic;
+    color: #FFFFFF;
+}
+div.PiedPiperCoin {
+    background: #FFFFFF;
+    padding-bottom: 27px;
+}
+.PiedPiperCoin p {
+    font-size: 32px;
+}
+.PiedPiperCoin img {
+    width: 115px;
+    height: 115px;
+    float: left;
+    margin-right: 30px;
+}
+div.theteam {
+    background: #EEEEEE;
+    padding-top: 32px;
+    padding-bottom: 48px;
+}
+.theteam img {
+    width: 168px;
+    height: 168px;
+}
+.theteam table {
+    margin: auto;
+}
+figcaption.name {
+    font-size: 24px;
+    color: #007765;
+    padding-top: 10px;
+}
+figcaption.position {
+    font-size: #000000;
+    color: 21px;
+}
+.theteam th {
+    width: 350px;
+    height: 283px;
+}
+div.end {
+    background: #333333;
+}
+.end p {
+    text-align: center;
+    margin: 0px;
+    color: #FFFFFF;
+    font-size: 18px;
+    padding-bottom: 64px;
+    padding-top: 48px;
+}
+a {
+    text-decoration: none;
+}
+.link {
+	padding-top: 84px;
+	margin-top: -84px;
+}
